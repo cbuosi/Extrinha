@@ -1,0 +1,14 @@
+Conectar=192.168.10.227:23
+Esperar=SISTEMAS:4:10
+Escrever=CICS04
+TeclaEspecial=Enter
+Esperar=CICS Sign-on:31:0
+EscreverEnter=CBUOSI
+Escrever=12345
+TeclaEspecial=Enter
+TeclaEspecial=PF1
+TeclaEspecial=Enter
+Desconectar=XD
+
+
+
